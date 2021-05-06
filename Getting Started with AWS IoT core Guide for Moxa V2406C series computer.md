@@ -66,15 +66,15 @@ N/A
 
     ![images/image2.png](images/image2.png)
 
-Login: moxa
+    Login: moxa
 
-Password: moxa
+    Password: moxa
 
-Root account login is disabled until you manually create a password for the account. The user moxa is in the sudo group so you can operate system level commands with this user using the sudo command.
+    Root account login is disabled until you manually create a password for the account. The user moxa is in the sudo group so you can operate system level commands with this    user using the sudo command.
 
-**ATTENTION: For security reasons, we recommend that you disable the default user account and create your own user accounts or** 
+    **ATTENTION: For security reasons, we recommend that you disable the default user account and create your own user accounts or** 
 
-**Refer to Account Management of [Moxa V2406C series computer-linux-user-manual](https://www.moxa.com/getmedia/5d1b74ce-0824-4b9d-bc0b-58023c330a36/moxa-v2406c-series-linux-manual-v2.0.pdf) for the detail steps.**
+    **Refer to Account Management of [Moxa V2406C series computer-linux-user-manual](https://www.moxa.com/getmedia/5d1b74ce-0824-4b9d-bc0b-58023c330a36/moxa-v2406c-series-linux-manual-v2.0.pdf) for the detail steps.**
 
 - **Change the network settings of Moxa V2406C series computer based on your network environment**
 
