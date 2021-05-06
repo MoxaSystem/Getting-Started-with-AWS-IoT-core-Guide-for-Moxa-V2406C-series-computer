@@ -62,7 +62,7 @@ N/A
 
 - **Accessing Moxa V2406C series computer Using a Linux/Windows PC or Mac**
 
-    You can use a PC to access Moxa V2406C series ****computer by using SSH over the network. Refer to the following IP addresses and login information:
+    You can use a PC to access Moxa V2406C series computer by using SSH over the network. Refer to the following IP addresses and login information:
 
     ![images/image2.png](images/image2.png)
 
